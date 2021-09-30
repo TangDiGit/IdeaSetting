@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7c0b7fd4f8a8405bba5f0734bdf916ff
+timeCreated: 1577355234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "San_Francisco_Display_Thin"
+  fontNames:
+  - SFNS Display
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

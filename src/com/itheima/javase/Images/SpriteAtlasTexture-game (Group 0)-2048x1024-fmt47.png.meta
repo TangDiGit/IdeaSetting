@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: 0fa4614809644c938f7fa265d588a85b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: _0007_tile-fixed_start
+    21300002: roll-the-ball_0010_logo-arrow
+    21300004: roll-the-ball_0003_filled-star-small
+    21300006: roll-the-ball_0004_empty-star-small
+    21300008: roll-the-ball_0021_star_empty
+    21300010: _0005_straight-
+    21300012: _0008_tile-standard
+    21300014: _0003_ball
+    21300016: _0004_start_end
+    21300018: _0001_arrow
+    21300020: _0006_finish-tile
+    21300022: _0002_cot
+    21300024: roll-the-ball_0020_star_fill
+    21300026: _0000_arrow-glow
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _0000_arrow-glow
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 557
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: 34, y: 55}
+        - {x: 34, y: 71}
+        - {x: 11, y: 86}
+        - {x: 3, y: 88}
+        - {x: -3, y: 88}
+        - {x: -8, y: 86}
+        - {x: -31, y: 69}
+        - {x: -31, y: 55}
+        - {x: -15, y: 55}
+        - {x: -1, y: 64}
+        - {x: 18, y: 55}
+      - - {x: 34, y: 88}
+        - {x: 34, y: 104}
+        - {x: 11, y: 119}
+        - {x: 3, y: 121}
+        - {x: -3, y: 121}
+        - {x: -8, y: 119}
+        - {x: -31, y: 102}
+        - {x: -31, y: 88}
+        - {x: -15, y: 88}
+        - {x: -1, y: 97}
+        - {x: 18, y: 88}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0008_tile-standard
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0002_cot
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: 53, y: 55}
+        - {x: 45, y: 128}
+        - {x: -45, y: 128}
+        - {x: -45, y: 23}
+        - {x: -41, y: -1}
+        - {x: -15, y: -36}
+        - {x: 17, y: -45}
+        - {x: 128, y: -45}
+        - {x: 128, y: 45}
+        - {x: 69, y: 46}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0006_finish-tile
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 557
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: -125, y: 128}
+        - {x: -127, y: 125}
+        - {x: -128, y: 124}
+        - {x: -128, y: -125}
+        - {x: -127, y: -128}
+        - {x: 127, y: -128}
+        - {x: 128, y: -127}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0020_star_fill
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 193
+        width: 127.8603
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.93013, y: 61}
+        - {x: 63.93013, y: 61}
+        - {x: -63.93013, y: -61}
+      - - {x: -63.93013, y: -61}
+        - {x: 63.93013, y: 61}
+        - {x: 63.93013, y: -61}
+      physicsShape:
+      - - {x: 64, y: 13}
+        - {x: 64, y: 17}
+        - {x: 58, y: 19}
+        - {x: 36, y: 21}
+        - {x: 21, y: 26}
+        - {x: 2, y: 61}
+        - {x: -3, y: 61}
+        - {x: -20, y: 25}
+        - {x: -26, y: 22}
+        - {x: -60, y: 17}
+        - {x: -64, y: 15}
+        - {x: -64, y: 11}
+        - {x: -35, y: -18}
+        - {x: -42, y: -58}
+        - {x: -41, y: -61}
+        - {x: -34, y: -61}
+        - {x: 1, y: -43}
+        - {x: 38, y: -61}
+        - {x: 41, y: -61}
+        - {x: 43, y: -59}
+        - {x: 35, y: -17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0021_star_empty
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 388
+        width: 128
+        height: 122.5426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 61.27131}
+        - {x: 64, y: 61.27131}
+        - {x: -64, y: -61.27131}
+      - - {x: -64, y: -61.27131}
+        - {x: 64, y: 61.27131}
+        - {x: 64, y: -61.27131}
+      physicsShape:
+      - - {x: 46, y: -61.5}
+        - {x: 43, y: -43.5}
+        - {x: 37, y: -17.5}
+        - {x: 64, y: 9.5}
+        - {x: 64, y: 19.5}
+        - {x: 48, y: 25.5}
+        - {x: 11, y: 52.5}
+        - {x: 5, y: 61.5}
+        - {x: -6, y: 61.5}
+        - {x: -9, y: 60.5}
+        - {x: -22, y: 27.5}
+        - {x: -63, y: 21.5}
+        - {x: -64, y: 18.5}
+        - {x: -64, y: 6.5}
+        - {x: -38, y: -18.5}
+        - {x: -44, y: -59.5}
+        - {x: -42, y: -61.5}
+        - {x: -28, y: -61.5}
+        - {x: 1, y: -44.5}
+        - {x: 29, y: -61.5}
+      - - {x: -27, y: -15.5}
+        - {x: -50, y: 11.5}
+        - {x: -18, y: 15.5}
+        - {x: -1, y: 45.5}
+        - {x: 13, y: 18.5}
+        - {x: 28, y: -21.5}
+        - {x: 32, y: -44.5}
+        - {x: 0, y: -33.5}
+        - {x: -26, y: -47.5}
+        - {x: -28, y: -49.5}
+        - {x: -33, y: -52.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0004_start_end
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 299
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: 19, y: 45}
+        - {x: -17, y: 45}
+        - {x: -30, y: 37}
+        - {x: -43, y: 19}
+        - {x: -45, y: 9}
+        - {x: -45, y: -128}
+        - {x: 45, y: -128}
+        - {x: 45, y: 13}
+        - {x: 38, y: 32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0004_empty-star-small
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 557
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 35}
+        - {x: 36.5, y: 35}
+        - {x: -36.5, y: -35}
+      - - {x: -36.5, y: -35}
+        - {x: 36.5, y: 35}
+        - {x: 36.5, y: -35}
+      physicsShape:
+      - - {x: 36.5, y: 3}
+        - {x: 36.5, y: 15}
+        - {x: 30.5, y: 18}
+        - {x: 3.5, y: 35}
+        - {x: -7.5, y: 35}
+        - {x: -16.5, y: 21}
+        - {x: -36.5, y: 14}
+        - {x: -36.5, y: -2}
+        - {x: -31.5, y: -13}
+        - {x: -26.5, y: -35}
+        - {x: -13.5, y: -35}
+        - {x: -0.5, y: -27}
+        - {x: 12.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 26.5, y: -12}
+      - - {x: -16.5, y: -27}
+        - {x: -14.5, y: -15}
+        - {x: -14.5, y: -8}
+        - {x: -27.5, y: 6}
+        - {x: -29.5, y: 6}
+        - {x: -28.5, y: 5}
+        - {x: -27.5, y: 6}
+        - {x: -21.5, y: 6}
+        - {x: -15.5, y: 7}
+        - {x: -10.5, y: 8}
+        - {x: -6.5, y: 12}
+        - {x: -5.5, y: 16}
+        - {x: 0.5, y: 27}
+        - {x: -0.5, y: 27}
+        - {x: -0.5, y: 26}
+        - {x: 1.5, y: 19}
+        - {x: 9.5, y: 7}
+        - {x: 23.5, y: 6}
+        - {x: 28.5, y: 6}
+        - {x: 14.5, y: -8}
+        - {x: -14.5, y: -24}
+        - {x: -16.5, y: -27}
+        - {x: -17.5, y: -28}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0007_tile-fixed_start
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 299
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: -123, y: 128}
+        - {x: -128, y: 123}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 123}
+        - {x: 123, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0003_filled-star-small
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 35}
+        - {x: 36.5, y: 35}
+        - {x: -36.5, y: -35}
+      - - {x: -36.5, y: -35}
+        - {x: 36.5, y: 35}
+        - {x: 36.5, y: -35}
+      physicsShape:
+      - - {x: 36.5, y: 3}
+        - {x: 36.5, y: 15}
+        - {x: 30.5, y: 18}
+        - {x: 3.5, y: 35}
+        - {x: -7.5, y: 35}
+        - {x: -16.5, y: 21}
+        - {x: -36.5, y: 14}
+        - {x: -36.5, y: -2}
+        - {x: -31.5, y: -13}
+        - {x: -26.5, y: -35}
+        - {x: -13.5, y: -35}
+        - {x: -0.5, y: -27}
+        - {x: 12.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 26.5, y: -12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0003_ball
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 258
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: -64, y: -64}
+      - - {x: -64, y: -64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape:
+      - - {x: -14, y: 22}
+        - {x: -22, y: 9}
+        - {x: -22, y: -13}
+        - {x: -17, y: -21}
+        - {x: 15, y: -21}
+        - {x: 21, y: -13}
+        - {x: 21, y: 10}
+        - {x: 17, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0005_straight-
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 299
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: 45, y: -128}
+        - {x: 45, y: 128}
+        - {x: -45, y: 128}
+        - {x: -45, y: -128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0010_logo-arrow
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 191
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: 95.5}
+        - {x: 95.5, y: 95.5}
+        - {x: -95.5, y: -95.5}
+      - - {x: -95.5, y: -95.5}
+        - {x: 95.5, y: 95.5}
+        - {x: 95.5, y: -95.5}
+      physicsShape:
+      - - {x: 52.5, y: -59.5}
+        - {x: 61.5, y: -59.5}
+        - {x: 77.5, y: -57.5}
+        - {x: 81.5, y: -55.5}
+        - {x: 81.5, y: -49.5}
+        - {x: 57.5, y: -40.5}
+        - {x: 68.5, y: -39.5}
+        - {x: 79.5, y: -35.5}
+        - {x: 77.5, y: -29.5}
+        - {x: 56.5, y: -21.5}
+        - {x: 12.5, y: -3.5}
+        - {x: 2.5, y: 0.5}
+        - {x: -3.5, y: 1.5}
+        - {x: -7.5, y: -1.5}
+        - {x: -45.5, y: -33.5}
+        - {x: -69.5, y: -53.5}
+        - {x: -69.5, y: -56.5}
+        - {x: -68.5, y: -59.5}
+        - {x: -53.5, y: -58.5}
+        - {x: -47.5, y: -56.5}
+        - {x: -65.5, y: -74.5}
+        - {x: -65.5, y: -76.5}
+        - {x: -64.5, y: -78.5}
+        - {x: -56.5, y: -78.5}
+        - {x: -45.5, y: -77.5}
+        - {x: -37.5, y: -74.5}
+        - {x: 0.5, y: -42.5}
+        - {x: 7.5, y: -41.5}
+      - - {x: 66.5, y: 19.5}
+        - {x: 69.5, y: 23.5}
+        - {x: 69.5, y: 26.5}
+        - {x: 57.5, y: 33.5}
+        - {x: 45.5, y: 37.5}
+        - {x: 63.5, y: 39.5}
+        - {x: 66.5, y: 44.5}
+        - {x: 65.5, y: 47.5}
+        - {x: 11.5, y: 70.5}
+        - {x: -7.5, y: 79.5}
+        - {x: -16.5, y: 79.5}
+        - {x: -26.5, y: 74.5}
+        - {x: -63.5, y: 39.5}
+        - {x: -80.5, y: 27.5}
+        - {x: -81.5, y: 24.5}
+        - {x: -81.5, y: 19.5}
+        - {x: -80.5, y: 18.5}
+        - {x: -64.5, y: 19.5}
+        - {x: -70.5, y: 10.5}
+        - {x: -78.5, y: 2.5}
+        - {x: -77.5, y: -0.5}
+        - {x: -62.5, y: -0.5}
+        - {x: -52.5, y: 1.5}
+        - {x: -8.5, y: 37.5}
+        - {x: 40.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0001_arrow
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: -128, y: -128}
+      - - {x: -128, y: -128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: 34, y: 56}
+        - {x: 34, y: 74}
+        - {x: 5, y: 87}
+        - {x: -4, y: 87}
+        - {x: -10, y: 83}
+        - {x: -31, y: 68}
+        - {x: -31, y: 59}
+        - {x: -30, y: 56}
+        - {x: -17, y: 56}
+        - {x: -11, y: 59}
+        - {x: 8, y: 58}
+        - {x: 18, y: 56}
+      - - {x: 34, y: 89}
+        - {x: 34, y: 107}
+        - {x: 5, y: 120}
+        - {x: -4, y: 120}
+        - {x: -10, y: 116}
+        - {x: -31, y: 101}
+        - {x: -31, y: 92}
+        - {x: -30, y: 89}
+        - {x: -17, y: 89}
+        - {x: -11, y: 92}
+        - {x: 8, y: 91}
+        - {x: 18, y: 89}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

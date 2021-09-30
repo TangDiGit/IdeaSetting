@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 2ada191e61d54f84b3af2ea6095ad92e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: _0015_sound-off
+    21300002: _0011_refresh
+    21300004: _0014_achivements
+    21300006: _0013_no-ads
+    21300008: _0016_sound-on
+    21300010: _0017_background
+    21300012: roll-the-ball_0008_easy-pack
+    21300014: roll-the-ball_0000_level-locked
+    21300016: roll-the-ball_0001_level
+    21300018: _0018_hint
+    21300020: _0019_fast-forward
+    21300022: _0033_popup
+    21300024: _0022_pause
+    21300026: _0020_undo
+    21300028: _0024_frame
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 77.30061
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roll-the-ball_0008_easy-pack
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1026
+        width: 453
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -226.5, y: 195}
+        - {x: 226.5, y: 195}
+        - {x: -226.5, y: -195}
+      - - {x: -226.5, y: -195}
+        - {x: 226.5, y: 195}
+        - {x: 226.5, y: -195}
+      physicsShape:
+      - - {x: -184.5, y: 195}
+        - {x: -184.5, y: -171}
+        - {x: -182.5, y: -173}
+        - {x: 182.5, y: -173}
+        - {x: 184.5, y: -171}
+        - {x: 184.5, y: 195}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0033_popup
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 1023.918
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -511.959, y: 362.5}
+        - {x: 511.959, y: 362.5}
+        - {x: -511.959, y: -362.5}
+      - - {x: -511.959, y: -362.5}
+        - {x: 511.959, y: 362.5}
+        - {x: 511.959, y: -362.5}
+      physicsShape:
+      - - {x: -512, y: 362.5}
+        - {x: -512, y: -362.5}
+        - {x: 512, y: -362.5}
+        - {x: 512, y: 362.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0016_sound-on
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 260
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0000_level-locked
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1273
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 122.5}
+        - {x: 122.5, y: 122.5}
+        - {x: -122.5, y: -122.5}
+      - - {x: -122.5, y: -122.5}
+        - {x: 122.5, y: 122.5}
+        - {x: 122.5, y: -122.5}
+      physicsShape:
+      - - {x: -122.5, y: 122.5}
+        - {x: -122.5, y: -122.5}
+        - {x: 122.5, y: -122.5}
+        - {x: 122.5, y: 122.5}
+      - - {x: 43.5, y: -35.5}
+        - {x: 44.5, y: 34.5}
+        - {x: 112.5, y: 33.5}
+        - {x: 114.5, y: -35.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: roll-the-ball_0001_level
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1026
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -122.5, y: 122.5}
+        - {x: 122.5, y: 122.5}
+        - {x: -122.5, y: -122.5}
+      - - {x: -122.5, y: -122.5}
+        - {x: 122.5, y: 122.5}
+        - {x: 122.5, y: -122.5}
+      physicsShape:
+      - - {x: -122.5, y: 122.5}
+        - {x: -122.5, y: -122.5}
+        - {x: 122.5, y: -122.5}
+        - {x: 122.5, y: 122.5}
+      - - {x: 43.5, y: -35.5}
+        - {x: 44.5, y: 34.5}
+        - {x: 112.5, y: 33.5}
+        - {x: 114.5, y: -35.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0018_hint
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 0
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0011_refresh
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 130
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0014_achivements
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 520
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0019_fast-forward
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1548
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0020_undo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1753
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0013_no-ads
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1418
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0017_background
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 576
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -288, y: 512}
+        - {x: 288, y: 512}
+        - {x: -288, y: -512}
+      - - {x: -288, y: -512}
+        - {x: 288, y: 512}
+        - {x: 288, y: -512}
+      physicsShape:
+      - - {x: -288, y: 512}
+        - {x: -288, y: -512}
+        - {x: 288, y: -512}
+        - {x: 288, y: 512}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0024_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -512, y: 512}
+        - {x: 512, y: 512}
+        - {x: -512, y: -512}
+      - - {x: -512, y: -512}
+        - {x: 512, y: 512}
+        - {x: 512, y: -512}
+      physicsShape:
+      - - {x: -512, y: 512}
+        - {x: -512, y: -512}
+        - {x: 512, y: -512}
+        - {x: 512, y: 512}
+      - - {x: -485.9999, y: 484.9999}
+        - {x: 485.9999, y: 484.9999}
+        - {x: 485.9999, y: -485.9999}
+        - {x: -485.9999, y: -485.9999}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0015_sound-off
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 390
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _0022_pause
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1678
+        width: 126
+        height: 127.546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 63.773}
+        - {x: 63, y: 63.773}
+        - {x: -63, y: -63.773}
+      - - {x: -63, y: -63.773}
+        - {x: 63, y: 63.773}
+        - {x: 63, y: -63.773}
+      physicsShape:
+      - - {x: -52, y: 64}
+        - {x: -63, y: 43}
+        - {x: -63, y: -50}
+        - {x: -46, y: -64}
+        - {x: 48, y: -64}
+        - {x: 63, y: -49}
+        - {x: 63, y: 53}
+        - {x: 56, y: 64}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

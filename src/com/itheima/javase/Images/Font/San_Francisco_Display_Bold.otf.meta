@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8ec6df027eb349feb932e05ac27883fd
+timeCreated: 1577355234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "San_Francisco_Display_Bold"
+  fontNames:
+  - SFNS Display
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

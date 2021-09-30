@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3fc01bb4a2ad4e07940e48cd15ff8bb2
+timeCreated: 1577355234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "San_Francisco_Display_Ultralight"
+  fontNames:
+  - SFNS Display
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
