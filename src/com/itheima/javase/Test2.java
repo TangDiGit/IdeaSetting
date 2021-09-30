@@ -6,4 +6,5 @@ package com.itheima.javase;
  * Time 2019-12-12-19:16
  */
 public class Test2 {
+// test
 }
